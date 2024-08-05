@@ -1,0 +1,20 @@
+table{
+    width: 700px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 10px;
+}
+table td,table th{
+    border: 2px solid black;
+    padding: 5px;
+   
+}
+#ad{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 3px;
+}
+#name{
+    margin-left: 10px;
+}
